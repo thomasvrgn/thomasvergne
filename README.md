@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Quark language](https://quark-lang.dev/)
 
-- 👨‍💻 All of my projects are available at [thomas.quark-lang.dev](thomas.quark-lang.dev)
+- 👨‍💻 All of my projects are available at [thomas.quark-lang.dev](https://thomas.quark-lang.dev)
 
 - 💬 Ask me about **Javascript, HTML and CSS**
 
