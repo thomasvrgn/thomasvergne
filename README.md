@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A front-end developer, mathematics enthusiast and language designer</h3>
 
-- 🔭 I’m currently working on [Haskell Training](https://github.com/thomasvergne/haskell-training)
+- 🔭 I’m currently working on [Lambda language](https://github.com/lambda-language)
 
 - 🌱 I’m currently learning **Haskell, Svelte, Typescript**
 
 - 👯 I’m looking to collaborate on [Quark language](https://quark-lang.dev/)
 
-- 👨‍💻 All of my projects are available at [thomas.quark-lang.dev](https://thomas.quark-lang.dev)
+- 👨‍💻 All of my projects are available at [my portfolio](https://thomasvergne.vercel.app)
 
-- 💬 Ask me about **Javascript, HTML and CSS**
+- 💬 Ask me about **Javascript, Typescript and Haskell**
 
-- 📫 How to reach me **thomas@quark-lang.dev**
+- 📫 How to reach me **thomas.vergne@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
